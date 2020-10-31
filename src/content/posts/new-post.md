@@ -2,7 +2,7 @@
 template: blog-post
 title: Recursion and How It Works
 slug: /recursion
-date: 2020-05-09T05:53:16.102Z
+date: 2020-10-29T05:53:16.102Z
 description: Neon
 featuredImage: /assets/recursion_tree.jpg
 ---
@@ -42,3 +42,5 @@ In the recursive case, the function itself is simply called again. This occurs i
 Recursion is not easy to understand conceptually. However, not having complete mastery of a concept does not mean you cannot apply and learn it as you are developing as a software engineer. For the most part, use of recursion will be evident because you can identify a base case and a method by which to move toward it. Is there a condition that will inevitably and eventually be met? Will the inputs remain structured so that this will be the case? These types of questions will get you into a recursive mindset. Be careful though, once you start to use recursion then..
 
 ![Infinite](/assets/infinite_recursion.png "Infinite Recursion") 
+
+Thank you for reading! Click [here](https://www.adamdonaldking.com/blog) to go back to the main page.

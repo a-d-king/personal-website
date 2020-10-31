@@ -2,11 +2,11 @@
   "meta": {
     "title": "Adam King",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Adam King's Personal Website",
+    "siteUrl": "https://www.adamdonaldking.com/",
+    "image": "/assets/adam-king-logo.png",
+    "iconimage": "/assets/adam-king-logo.png",
+    "twitterUsername": "adking710"
   },
   "ga": "UA-XXXXXXXXX-X"
 }

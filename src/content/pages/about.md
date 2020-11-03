@@ -34,4 +34,4 @@ Python, pandas, NumPy, jQuery, Gatsby, Bootstrap, PostgreSQL, VBA, Jasmine, Hero
 
 ![Alma Matter](/assets/uchicago.jpeg "Alma Matter")
 
-Thank you for reading! Click [here](https://www.adamdonaldking.com/blog) to go back to the main page.
+Thank you for reading! Click [here](https://www.adamdonaldking.com/) to go back to the main page.

@@ -4,9 +4,9 @@ slug: /about
 title: About Me
 ---
 
-Hello there and thank you for visiting!
+Hello there, and thank you for visiting!
 
-My name is Adam King, I am a software engineer living in Chicago. I attended the University of Chicago and graduated in 2018 with a Bachelor of Arts in Economics. My interest in software engineering and computer science stems from an early interest in science fiction. Bradbury, Clarke, and Asimov were the foremost in sparking my interest in technology - among others. From their stories, I always believed that technology could and should be used to create a better future. 
+My name is Adam King, I am a software engineer living in Chicago. I attended the University of Chicago and graduated in 2018 with a Bachelor of Arts in Economics. My interest in software engineering and computer science stems from an early fascination with science fiction. Bradbury, Clarke, and Asimov were the most notable authors who sparked my interest in technology - among others. From their stories, I always believed that technology could and should be used to create a better future. I am excited by working on new and innovative technologies and for companies doing great things. If you would like to contact me - please click on the navigation bar above. 
 
 ## Technical Skills ##
 
@@ -16,7 +16,7 @@ JavaScript, HTML, CSS, Node.js, Express, Sequelize, React, Redux, React-Redux, E
 
 **Familiar:**
 
-Python, pandas, NumPy, jQuery, Bootstrap, PostgreSQL, VBA, Jasmine, Heroku, OAuth, Socket.io, Passport, Travis
+Python, pandas, NumPy, jQuery, Gatsby, Bootstrap, PostgreSQL, VBA, Jasmine, Heroku, GraphQL, OAuth, Socket.io, Passport, Travis
 
 ## Projects ##
 
@@ -33,3 +33,5 @@ Python, pandas, NumPy, jQuery, Bootstrap, PostgreSQL, VBA, Jasmine, Heroku, OAut
 [Guessing Game](https://a-d-king.github.io/guessing-game-final/) is a simple but fun guessing game built with JavaScript, jQuery, HTML, and CSS.
 
 ![Alma Matter](/assets/uchicago.jpeg "Alma Matter")
+
+Thank you for reading! Click [here](https://www.adamdonaldking.com/blog) to go back to the main page.

@@ -1,8 +1,8 @@
 {
   "name": "@stackrole/gatsby-starter-foundation",
-  "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+  "description": "Adam King's personal website",
   "version": "1.0.0",
-  "author": "Stackrole <stackrole@gmail.com>",
+  "author": "Adam King <adking710@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",

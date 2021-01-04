@@ -1,5 +1,5 @@
 ---
-template: blog-post
+template: new-article
 title: Recursion and How It Works
 slug: /recursion
 date: 2020-10-29T05:53:16.102Z
@@ -43,4 +43,4 @@ Recursion is not easy to understand conceptually. However, not having complete m
 
 ![Infinite](/assets/infinite_recursion.png "Infinite Recursion") 
 
-Thank you for reading! Click [here](https://www.adamdonaldking.com/blog) to go back to the main page.
+Thank you for reading! Click [here](https://www.adamdonaldking.com/articles) to go back to the main page.

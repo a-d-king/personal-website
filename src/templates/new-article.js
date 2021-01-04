@@ -9,7 +9,7 @@ import SEO from '../components/seo';
 const Pagination = (props) => (
   <div className="pagination -post">
     <ul>
-        {(props.previous && props.previous.frontmatter.template === 'blog-post') && (
+        {(props.previous && props.previous.frontmatter.template === 'new-article') && (
           <li>
               <Link to={props.previous.frontmatter.slug} rel="prev">
                 <p><span className="icon -left"><RiArrowLeftLine/></span> Previous</p>
@@ -17,7 +17,7 @@ const Pagination = (props) => (
               </Link>
           </li>
         )}
-        {(props.next && props.next.frontmatter.template === 'blog-post') && (
+        {(props.next && props.next.frontmatter.template === 'new-article') && (
           <li>
             <Link to={props.next.frontmatter.slug} rel="next">
               <p>Next <span className="icon -right"><RiArrowRightLine/></span></p>

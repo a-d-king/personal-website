@@ -6,11 +6,11 @@ import PostCard from "./post-card"
 
 const PostMaker = ({ data }) => (
   <section className="home-posts">
-    <h2>Latest in <strong>Blog</strong> <span class="icon -right"><RiArrowDownLine/></span></h2>
+    <h2>Latest in <strong>Articles</strong> <span class="icon -right"><RiArrowDownLine/></span></h2>
     <div className="grids col-1 sm-2 lg-3">
       {data}
     </div>
-    <Link className="button" to="/blog">See more<span class="icon -right"><RiArrowRightSLine/></span></Link>
+    <Link className="button" to="/articles">See more<span class="icon -right"><RiArrowRightSLine/></span></Link>
   </section>
 )
 
@@ -21,7 +21,7 @@ export default function BlogListHome() {
         query {
           allMarkdownRemark(
             sort: { order: DESC, fields: [frontmatter___date] }
-            filter: { frontmatter: { template: { eq: "blog-post" } } }
+            filter: { frontmatter: { template: { eq: "new-article" } } }
             limit: 6
           ) {
             edges {
